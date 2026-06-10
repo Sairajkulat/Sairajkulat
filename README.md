@@ -53,14 +53,6 @@ student = {
 - 🔌 **IoT Projects** — Building smart systems with Arduino
 - 🐧 **Linux & Shell Scripting** — Getting comfortable with the terminal
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| 🔧 *Coming Soon* | IoT-based Smart System | Arduino, Python |
-| 🌐 *Coming Soon* | Web App Project | HTML, CSS, JS |
-| 📊 *Coming Soon* | DSA Practice Repo | Python |
-
 > 🛠️ Projects will be updated as I build more throughout the semester!
 
 ---
