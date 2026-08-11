@@ -13,7 +13,7 @@ student = {
     "name"       : "Sairaj Kulat",
     "degree"     : "B.E. Computer Engineering",
     "institute"  : "Sinhgad Institute of Technology, Pune",
-    "year"       : "2nd Year",
+    "year"       : "3rd Year",
     "location"   : "Pune, Maharashtra 🇮🇳",
     "interests"  : ["Web Development", "IoT", "Data Structures", "Open Source"],
     "currently"  : "Building cool projects & sharpening my DSA skills 💪",
@@ -60,13 +60,13 @@ student = {
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/sairaj-kulat" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:kulatsairaj469@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/Sairajkulat" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
